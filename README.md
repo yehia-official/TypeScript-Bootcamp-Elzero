@@ -2,7 +2,11 @@
 
 # TypeScript Bootcamp — Elzero Web School 🚀
 
-<img src="https://raw.githubusercontent.com/arasre/typescript-bootcamp-assignment-solution/main/public/typescript.png" alt="TypeScript Logo" width="150"/>
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+  alt="TypeScript Logo"
+  width="150"
+/>
 
 ### My Personal Journey to Mastering TypeScript, by Yehia
 
@@ -268,4 +272,5 @@ I am a passionate developer driven by a love for building elegant, efficient, an
 *   A huge thank you to Eng. **Osama Elzero** and **[Elzero Web School](https://elzero.org/)** for this valuable training bootcamp.
 *   Thanks to all the contributors and community members who provide help and inspiration.
 *   Shields.io for the awesome badges.
+
 
